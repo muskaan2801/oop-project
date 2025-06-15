@@ -38,3 +38,7 @@ The **Smart Parking Assistant** is a C++ console-based project that simulates a 
 
    ```bash
    g++ -o parking Smart\ Parking\ Assisstant\ Oop\ project.cpp
+
+3. Run the program:
+./parking
+
